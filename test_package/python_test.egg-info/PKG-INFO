@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: python-test
+Version: 0.0.1
+Summary: A small example package.
+Home-page: UNKNOWN
+Author: Complex
+Author-email: examoke@gmail.com
+License: UNKNOWN
+Description: A longer example package description.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
